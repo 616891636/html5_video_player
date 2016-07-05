@@ -1,0 +1,11 @@
+{
+	"index.html": {
+		"resources": [
+			"video/test.mp4",
+			"img/0001.jpg",
+			"js/jquery-2.1.4.min.js",
+			"img/0003.jpg",
+			"img/0002.jpg"
+		]
+	}
+}
