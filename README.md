@@ -4,3 +4,7 @@
 ![image](https://github.com/616891636/html5_video_player/blob/master/simple/0001.png)
 ![image](https://github.com/616891636/html5_video_player/blob/master/simple/0002.png)
 
+#DEMO
+#https://616891636.github.io/html5_video_player.html
+
+
